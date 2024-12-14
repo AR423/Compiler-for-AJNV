@@ -1,2 +1,4 @@
-# Compiler-for-AJNV
-A compiler for a new language AJNV (Part of CS 327 Compilers at IIT Gandhinagar)
+
+For running for last assignment: 
+1. command for generating the wat file:
+   $ python codeGen2.py testcases/arthimetic.ajnv
